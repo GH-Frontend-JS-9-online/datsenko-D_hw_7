@@ -1,8 +1,8 @@
 
 #    1. Arrays
 ###       1. Challenge 1
-#####            1. URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd>
-#####            2. Solution: https://www.dropbox.com/h?preview=1.1.png>
+#####            1. URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
+#####            2. Solution: https://www.dropbox.com/h?preview=1.1.png
 ###        2. Challenge 2
 #####           1. URL: https://edabit.com/challenge/zQm9YZTTFPhNtYjDr
 #####            2. Solution: https://www.dropbox.com/h?preview=3.1.png
